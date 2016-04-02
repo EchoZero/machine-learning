@@ -14,3 +14,4 @@ Just in case of violating some license of sharing, please contact me.
 #### ex4 Neural network feedforward and backpropagation
 #### ex5 Regularized Linear Regression and Bias v.s. Variance ---- how to make a better performace
 #### ex6 SVM for spam/non spam classification
+#### ex7 K-means clustering and Principal Components Analysis for image compression
