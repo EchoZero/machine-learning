@@ -18,3 +18,4 @@ Just in case of violating some license of sharing, please contact me.
 - ex5 Regularized Linear Regression and Bias v.s. Variance ---- how to make a better performace
 - ex6 SVM for spam/non spam classification
 - ex7 K-means clustering and Principal Components Analysis for image compression
+- ex8 Anomaly detection using gaussien distribution & Recommender system using collaborative filtering for movies suggestion
